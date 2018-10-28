@@ -1,0 +1,63 @@
+
+活动连接
+
+  协议  本地地址          外部地址        状态
+  TCP    0.0.0.0:135            PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:445            PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:1025           PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:1026           PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:1027           PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:1028           PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:1029           PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:1030           PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:3306           PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:45769          PC-20180125BBDX:0      LISTENING
+  TCP    0.0.0.0:50173          PC-20180125BBDX:0      LISTENING
+  TCP    127.0.0.1:4300         PC-20180125BBDX:0      LISTENING
+  TCP    127.0.0.1:4301         PC-20180125BBDX:0      LISTENING
+  TCP    172.16.56.255:139      PC-20180125BBDX:0      LISTENING
+  TCP    172.16.56.255:1072     180.163.238.133:http   ESTABLISHED
+  TCP    172.16.56.255:9382     14.17.41.210:http      CLOSE_WAIT
+  TCP    172.16.56.255:10791    183.66.103.170:http    CLOSE_WAIT
+  TCP    172.16.56.255:10792    163.177.68.213:http    CLOSE_WAIT
+  TCP    172.16.56.255:11287    14.17.43.153:http      CLOSE_WAIT
+  TCP    172.16.56.255:11647    hn:http                ESTABLISHED
+  TCP    172.16.56.255:12922    223.252.199.69:6003    ESTABLISHED
+  TCP    [::]:135               PC-20180125BBDX:0      LISTENING
+  TCP    [::]:445               PC-20180125BBDX:0      LISTENING
+  TCP    [::]:1025              PC-20180125BBDX:0      LISTENING
+  TCP    [::]:1026              PC-20180125BBDX:0      LISTENING
+  TCP    [::]:1027              PC-20180125BBDX:0      LISTENING
+  TCP    [::]:1028              PC-20180125BBDX:0      LISTENING
+  TCP    [::]:1029              PC-20180125BBDX:0      LISTENING
+  TCP    [::]:1030              PC-20180125BBDX:0      LISTENING
+  TCP    [::]:3306              PC-20180125BBDX:0      LISTENING
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:3600           *:*                    
+  UDP    0.0.0.0:4022           *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:45769          *:*                    
+  UDP    0.0.0.0:49158          *:*                    
+  UDP    0.0.0.0:49163          *:*                    
+  UDP    0.0.0.0:49164          *:*                    
+  UDP    0.0.0.0:49167          *:*                    
+  UDP    0.0.0.0:49168          *:*                    
+  UDP    0.0.0.0:52663          *:*                    
+  UDP    0.0.0.0:57673          *:*                    
+  UDP    0.0.0.0:57674          *:*                    
+  UDP    0.0.0.0:58348          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:65532        *:*                    
+  UDP    172.16.56.255:137      *:*                    
+  UDP    172.16.56.255:138      *:*                    
+  UDP    172.16.56.255:1900     *:*                    
+  UDP    172.16.56.255:65531    *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:65530            *:*                    
+  UDP    [fe80::6934:7ec9:58a5:7398%13]:546  *:*                    
+  UDP    [fe80::6934:7ec9:58a5:7398%13]:1900  *:*                    
+  UDP    [fe80::6934:7ec9:58a5:7398%13]:65529  *:*                    
